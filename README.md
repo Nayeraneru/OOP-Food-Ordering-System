@@ -1,0 +1,2 @@
+# OOP FOOD ORDERING SYSTEM
+### Rush Munch is a food ordering system it’s a user-friendly online platform that simplifies the food ordering process. It enables users to effortlessly explore menus, customize orders, and choose between payment methods. With real-time order tracking, three restaurant types, secure transactions, and powerful admin functionalities, it seamlessly applies object-oriented programming principles for a secure, efficient, and enjoyable dining experience.
